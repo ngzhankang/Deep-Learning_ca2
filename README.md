@@ -6,6 +6,7 @@ This repository is to host the notebook that triston and i did for this module d
 
 # Documentation
 1. The notebook can be found at [here](./Assignment_2.ipynb)
+2. We used the CelebA Dataset. Dataset can be found at [here](./dataset)
 
 # Contributors
 - Me.
