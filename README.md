@@ -13,4 +13,4 @@ This repository is to host the notebook that triston and i did for this module d
 
 # Contributors
 - Ng Zhan Kang (Me)
-- Triston Loh Cherng Jun
+- [Triston Loh Cherng Jun](https://github.com/Triston24)
