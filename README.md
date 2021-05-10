@@ -10,5 +10,5 @@ This repository is to host the notebook that triston and i did for this module d
 3. In case the HTML version cannot be rendered properly, please go to the website [here](https://nbviewer.jupyter.org/github/ngzhankang/Deep-Learning_ca2/blob/main/Assignment_2.ipynb).
 
 # Contributors
-- Me.
-- Triston.
+- Ng Zhan Kang (Me)
+- Triston Loh Cherng Jun
